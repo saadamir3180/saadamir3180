@@ -3,11 +3,7 @@
 <h3 align="center">A passionate full Stack Developer from PAKISTAN</h3>
 
 
-![Funny GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-
-
-
-
+<img align="right" alt="Coding" width="300" src="[https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966](https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001)">
 
 
 
