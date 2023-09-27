@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full Stack Developer from PAKISTAN</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 
 <h3 align="left">Connect with me:</h3>
