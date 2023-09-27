@@ -3,8 +3,9 @@
 <h3 align="center">A passionate full Stack Developer from PAKISTAN</h3>
 
 
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="100%" height="auto" frameBorder="0" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+![Funny GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+[Source](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
+
 
 
 
