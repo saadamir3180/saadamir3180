@@ -4,7 +4,6 @@
 
 
 ![Funny GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-[Source](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
 
 
 
